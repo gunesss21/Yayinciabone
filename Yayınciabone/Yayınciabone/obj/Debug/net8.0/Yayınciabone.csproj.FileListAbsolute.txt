@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/bin/Debug/net8.0/Yayınciabone
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/bin/Debug/net8.0/Yayınciabone.deps.json
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/bin/Debug/net8.0/Yayınciabone.runtimeconfig.json
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/bin/Debug/net8.0/Yayınciabone.dll
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/bin/Debug/net8.0/Yayınciabone.pdb
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/obj/Debug/net8.0/Yayınciabone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/obj/Debug/net8.0/Yayınciabone.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/obj/Debug/net8.0/Yayınciabone.AssemblyInfo.cs
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/obj/Debug/net8.0/Yayınciabone.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/obj/Debug/net8.0/Yayınciabone.dll
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/obj/Debug/net8.0/refint/Yayınciabone.dll
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/obj/Debug/net8.0/Yayınciabone.pdb
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/obj/Debug/net8.0/Yayınciabone.genruntimeconfig.cache
+/Users/svage/RiderProjects/Yayınciabone/Yayınciabone/obj/Debug/net8.0/ref/Yayınciabone.dll
